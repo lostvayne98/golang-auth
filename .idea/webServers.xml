@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c54a230b-3503-45c3-97b9-a3978d3a362a" name="barter old">
+        <fileTransfer rootFolder="/var/www/" accessType="SFTP" host="188.120.236.223" port="22" sshConfigId="838682be-c76c-4c5d-ae23-36eb54c70820" sshConfig="root@188.120.236.223:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
